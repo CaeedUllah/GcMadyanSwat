@@ -2,7 +2,7 @@ using GcMadyanSwat.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace GcMadyanSwat.Controllers
+namespace GcMadyanSwat.Controllers // check
 {
     public class HomeController : Controller
     {
