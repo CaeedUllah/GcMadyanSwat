@@ -1,7 +1,7 @@
 using GcMadyanSwat.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-
+//test from sabooh lapop...
 namespace GcMadyanSwat.Controllers
 {
     public class HomeController : Controller
